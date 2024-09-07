@@ -1,0 +1,7 @@
+This project aims to train a model in order to get the best classification of the class for each pair of sentences. 
+Here you will find:
+-Data cleaning
+-Tokenziation of the data using TF-IDF and BOW
+-Stemming using a custom made Romanian stemmer
+-ML algorithms: Logistic Regression and Naive Bayes
+-Hyperparameter tunning for those models
